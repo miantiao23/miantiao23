@@ -2,7 +2,7 @@
 - 👀 I’m interested in wireless networks, unmanned aircraft systems, and machine learning
 - 🌱 I’m currently learning machine learning on networking, 5G enabled UAS swarm networking, security enhancement for cellular based UAS networking.
 - 💞️ I’m looking to collaborate on machine learning on networking, 5G enabled UAS swarm networking, security enhancement for cellular based UAS networking.
-- 📫 How to reach me wangj14@my.erau.edu
+- 📫 How to reach me jabe.wang2016@gmail.com
 
 <!---
 miantiao23/miantiao23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
