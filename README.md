@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @miantiao23
+- 👋 Hi, I’m @miantiao
 - 👀 I’m interested in wireless networks, unmanned aircraft systems, and machine learning
 - 🌱 I’m currently learning machine learning on networking, 5G enabled UAS swarm networking, security enhancement for cellular based UAS networking.
 - 💞️ I’m looking to collaborate on machine learning on networking, 5G enabled UAS swarm networking, security enhancement for cellular based UAS networking.
